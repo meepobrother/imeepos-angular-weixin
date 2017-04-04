@@ -1,3 +1,3 @@
 
 
-export * from './src/app/weixin/weixin.module';
+export * from './src/app/weixin/weixin.module'
